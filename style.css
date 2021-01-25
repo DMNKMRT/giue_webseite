@@ -30,12 +30,24 @@ nav{
 
   
 }
+
+.team_text{
+    float: left;
+    width: 80%;
+}
 .verlinktes_bild{
     float: right;
+    width: 20%;
     
 }
 .team_dominik{
-    width:80%;
+    width:100%;
+}
+.team_can{
+    width:100%;
+}
+.team_nathalie{
+    width:100%;
 }
 
 .nav_link{
@@ -47,20 +59,25 @@ nav{
     margin-top: 25px;
 
 }
-.team{
-   
+.team_name{
+    width: 100%;
+    float: left;
 }
 
-.team-dominik{
+.kontaktdaten{
+    float: left;
 }
 
 .kontaktdaten_tabelle{
-    display:flex;
+    display: flex;
+    margin-bottom: 70px;
 }
 
 .kontakt_dominik{
+
     margin-right: 50px;
 }
 .kontakt_can{
+   
     margin-left: 50px;
 }
