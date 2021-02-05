@@ -45,7 +45,7 @@ li{
 
 
 .banner{
-  background-image: url("/home/natalie/ownCloud/HAWCloud/2020_21_gi_huebner/uebungen/uebung3/webpage/pictures/universe_01.jpg");
+  background-image: url("./pictures/universe_01.jpg");
   background-size: cover;
   background-position: center;
   font-size: 2rem;
