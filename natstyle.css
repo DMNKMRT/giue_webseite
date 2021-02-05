@@ -1,0 +1,63 @@
+header{
+    background-color: #d1d1e0;
+    padding: 10px;
+    margin: 40px;
+    display: flex;
+    font-weight: bold;
+    align-items:center;
+}
+
+body{
+    background-color:  #ffe6e6;
+    font-family: initial;
+}
+
+h2{
+    color:#336600;
+    font-weight: bold;
+}
+
+p, form, table{
+    padding-block-end: 40px;
+}
+
+
+table{
+    text-align: center;
+    width: 100%;
+}
+
+td{
+    text-align: middle;
+}
+
+li{
+    padding: 15px;
+    display: inline;
+}
+
+.nav ul{
+    align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.banner{
+  background-image: url("/home/natalie/ownCloud/HAWCloud/2020_21_gi_huebner/uebungen/uebung3/webpage/pictures/universe_01.jpg");
+  background-size: cover;
+  background-position: center;
+  font-size: 2rem;
+  color: rgb(233, 219, 19);
+  text-align: center;
+  padding:20px;
+  padding-top: 5px;
+  margin: 80px;
+  min-height: 10px;
+}
+
+.aufzaehlung{
+    margin: 80px;
+    text-align:justify;
+}
